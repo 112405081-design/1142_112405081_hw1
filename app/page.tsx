@@ -54,17 +54,17 @@ const EXPERIENCE_ITEMS: ExperienceItem[] = [
 ];
 
 const PHOTOGRAPHY_ITEMS: PhotographyItem[] = [
-  { src: "/photos/v1.jpg", alt: "vertical 1", caption: "去阿姆斯特丹看到的浪漫情侶1", span: "md:row-span-2" },
-  { src: "/photos/h1.jpg", alt: "horizontal 1", caption: "亮亮的水面", span: "md:col-span-2" },
-  { src: "/photos/v4-dog.jpg", alt: "vertical 4", caption: "多多白白" },
-  { src: "/photos/h2.jpg", alt: "horizontal 2", caption: "亮亮的水面2" },
-  { src: "/photos/v3.jpg", alt: "vertical 3", caption: "日本的軌道", span: "md:row-span-2" },
+  { src: "/photos/v1.jpg", alt: "vertical 1", caption: "浪漫情侶⋆𓈒 ♱ ❤︎  ⋆۫", span: "md:row-span-2" },
+  { src: "/photos/h1.jpg", alt: "horizontal 1", caption: "‧̍̊˙· 𓆝.° ｡˚𓆛˚｡ °.𓆞 ·˙‧̍̊", span: "md:col-span-2" },
+  { src: "/photos/v4-dog.jpg", alt: "vertical 4", caption: "多多白白੯‧̀͡u\೨˒" },
+  { src: "/photos/h2.jpg", alt: "horizontal 2", caption: "☆*:.｡. 💙🤍🩵.｡.:*☆" },
+  { src: "/photos/v3.jpg", alt: "vertical 3", caption: "🏮꙳𖥧 ⛩️ 𖥧˖ 🎏 ⸝˖𖤐", span: "md:row-span-2" },
   { src: "/photos/h3.jpg", alt: "horizontal 3", caption: "橋上的人都會跟我們打招呼～很可愛", span: "md:col-span-2" },
-  { src: "/photos/h4.jpg", alt: "horizontal 4", caption: "眯眼小咪" },
-  { src: "/photos/v5.jpg", alt: "vertical 5", caption: "日本的海", span: "md:row-span-2" },
+  { src: "/photos/h4.jpg", alt: "horizontal 4", caption: " ≽₍^_ ‸ _ ^₎≼⟆ 眯眼小咪" },
+  { src: "/photos/v5.jpg", alt: "vertical 5", caption: "*ੈ✩‧₊˚𓇼🦭° ⊹", span: "md:row-span-2" },
   { src: "/photos/h7.jpg", alt: "horizontal 7", caption: "第一次跟朋友出國", span: "md:row-span-2" },
-  { src: "/photos/v2-new.jpg", alt: "vertical 2", caption: "浪漫情侶2" },
-  { src: "/photos/h5.jpg", alt: "horizontal 5", caption: "大室山" },
+  { src: "/photos/v2-new.jpg", alt: "vertical 2", caption: "日本的浪漫情侶" },
+  { src: "/photos/h5.jpg", alt: "horizontal 5", caption: "↟𖠰˚ᨒ°大室山↟༄˖°" },
   { src: "/photos/h9-dog.jpg", alt: "horizontal 9", caption: "去當天使的寶寶" },
   { src: "/photos/h6.jpg", alt: "horizontal 6", span: "md:col-span-2", caption: "第二次跟朋友出遊" },
   { src: "/photos/h10.jpg", alt: "horizontal 10", caption: "到處都是鏡子的韓國" },
@@ -523,7 +523,7 @@ export default function Home() {
                         <div className="absolute inset-0 bg-black/0 transition-all duration-300 group-hover:bg-black/40" />
 
                         <div className="absolute inset-0 flex translate-y-4 items-end p-4 opacity-0 transition-all duration-300 group-hover:translate-y-0 group-hover:opacity-100">
-                          <div className="rounded-xl bg-white/10 px-3 py-2 text-sm text-white backdrop-blur-sm">
+                          <div className="rounded-xl px-3 py-2 text-sm text-white ">
                             {item.caption}
                           </div>
                         </div>
