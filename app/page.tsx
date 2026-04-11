@@ -323,7 +323,7 @@ export default function Home() {
                   <div className="absolute inset-x-0 bottom-0 z-10 p-6 sm:p-8">
                     <div className="max-w-2xl rounded-[24px] sm:p-6">
                       <h2 className="text-2xl font-semibold tracking-tight text-white sm:text-4xl">
-                        Home
+                        Welcome
                       </h2>
                       <p className="mt-2 max-w-xl text-sm leading-6 text-white/90 sm:text-base">
                         歡迎來到我的個人履歷～這裡收藏了我的經歷、興趣與攝影日常。
